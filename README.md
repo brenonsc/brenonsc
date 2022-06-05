@@ -1,33 +1,36 @@
-## Hello World!🖖
+## Hello World! 👋🏻
 <br/>
-<img align="right" alt="GIF" src="https://c.tenor.com/Ff7ZGErcw7QAAAAd/monkey-pissed.gif" width="30px">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 
- - 🎓 I'm a final student pursuing Bachelors's in Computer Engineering
+ - 🎓 I'm a final student pursuing Bachelor's in Computer Engineering
 - <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/PC.gif" height="20px"/> I love to explore new technologies and leverage them to solve real-life problems 
 - 📚 iOS Developer, currently learning Swift
 - <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Rocket.gif" height="18px"> Ask me about anything and everything, I am happy to help!
-- ⚡ Fun facts: I hate ketchup on my food
+- ⚡ Fun fact: In love with coding, Formula 1 & classic JRPGs <img src="https://i.imgur.com/9o1Rgme.gif" height="20px" />
 
+<br>
 
-### You can find me on 
-<a href="https://www.linkedin.com/in/breno-henrique-barticciotto-nascimento-842363190/%22%3E
-  <img align="left" alt="Breno's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+### You can also find me on 
+<a href="https://www.facebook.com/brenohenrique.nascimento">
+  <img align="left" alt="Breno's Facebook" width="40px" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" />
 </a>
 
-<a href="https://twitter.com/breno_nsc%22%3E
-  <img align="left" alt="Breno Nascimento | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://instagram.com/breno_nsc">
+  <img align="left" alt="Breno's Instagram" width="40px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />
+</a>
+
+<a href="https://www.linkedin.com/in/breno-henrique-barticciotto-nascimento-842363190/">
+  <img align="left" alt="Breno's Linkedin" width="40px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />
+</a>
+
+<a href="https://twitter.com/breno_nsc">
+  <img align="left" alt="Breno's Twitter" width="40px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />
 </a>
 
 <a href="mailto:brenonsc@gmail.com">
-  <img align="left" alt="Breno's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Breno's Email" width="40px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
 </a>
-
-<a href="https://instagram.com/breno_nsc%22%3E
-  <img align="left" alt="Breno's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
 
 <br />
 <br/>
-Imagem
