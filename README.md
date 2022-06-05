@@ -5,11 +5,19 @@
 
  - 🎓 I'm a final student pursuing Bachelor's in Computer Engineering
 - <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/PC.gif" height="20px"/> I love to explore new technologies and leverage them to solve real-life problems 
-- 📚 iOS Developer, currently learning Swift
+- 📚 iOS Developer, currently working with SwiftUI
 - <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Rocket.gif" height="18px"> Ask me about anything and everything, I am happy to help!
 - ⚡ Fun fact: In love with coding, Formula 1 & classic JRPGs <img src="https://i.imgur.com/9o1Rgme.gif" height="20px" />
 
 <br>
+
+### Skills
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/brenonsc)
+[![CocoaPods](https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white)](https://github.com/brenonsc)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/brenonsc)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/brenonsc)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/brenonsc)
+[![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://github.com/brenonsc)
 
 ### You can also find me on 
 <a href="https://www.facebook.com/brenohenrique.nascimento">
