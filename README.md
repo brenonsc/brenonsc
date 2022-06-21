@@ -14,6 +14,7 @@
 ### Skills
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/brenonsc)
 [![CocoaPods](https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white)](https://github.com/brenonsc)
+[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/brenonsc)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/brenonsc)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/brenonsc)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/brenonsc)
