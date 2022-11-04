@@ -5,7 +5,6 @@
 
  - 🎓 I'm a final student pursuing Bachelor's in Computer Engineering
 - <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/PC.gif" width="20"/> I love to explore new technologies and leverage them to solve real-life problems 
-- 📚 iOS Developer, currently working with SwiftUI
 - <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Rocket.gif" width="18"> Ask me about anything and everything, I'll be happy to help!
 - ⚡ **Fun fact:** I've watched The Lord of the Rings approximately 7359 times
 
