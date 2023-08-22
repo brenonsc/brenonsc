@@ -35,11 +35,11 @@
 </a>
 
 <a href="https://www.linkedin.com/in/brenonsc">
-  <img align="left" alt="Breno's LinkedIn" width="40px" src="
+  <img align="left" alt="Breno's LinkedIn" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
 </a>
 
 <a href="mailto:brenonsc@gmail.com">
-  <img align="left" alt="Breno's e-mail" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" />
+  <img align="left" alt="Breno's e-mail" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Mail_ru.svg" />
 </a>
 
 <br />
