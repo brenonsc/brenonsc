@@ -27,7 +27,7 @@
 
 ### You can also find me on 
 <a href="https://www.facebook.com/brenohenrique.nascimento">
-  <img align="left" alt="Breno's Facebook" width="40px" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" />
+  <img align="left" alt="Breno's Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/640px-Facebook_logo_%28square%29.png" />
 </a>
 
 <a href="https://instagram.com/breno_nsc">
