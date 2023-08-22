@@ -27,7 +27,7 @@
 
 ### You can also find me on 
 <a href="https://www.facebook.com/brenohenrique.nascimento">
-  <img align="left" alt="Breno's Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/640px-Facebook_logo_%28square%29.png" />
+  <img align="left" alt="Breno's Facebook" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" />
 </a>
 
 <a href="https://instagram.com/breno_nsc">
