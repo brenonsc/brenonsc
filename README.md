@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://instagram.com/breno_nsc">
-  <img align="left" alt="Breno's Instagram" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSERgygNZy34NJaSoTCMrN05t6t-sdPUUitVg&usqp=CAU" />
+  <img align="left" alt="Breno's Instagram" width="40px" src="https://static-00.iconduck.com/assets.00/instagram-icon-512x512-ggh8x3cn.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/brenonsc">
