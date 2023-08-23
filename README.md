@@ -40,4 +40,5 @@
 <br>
 
 ### Recently listening to 
+<a href="https://music.apple.com/profile/breno_nsc" target="_blank">
 <img align="center" src="https://apple-music-readme-wine.vercel.app/?">
