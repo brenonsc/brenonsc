@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,ts,react,swift,cpp,git,docker,postman)](https://github.com/brenonsc)
 <br><br>
 <img height="44" hspace="5" width="44" src="https://cdn.simpleicons.org/firebase/FFCA28" />
-<img height="44" width="44" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
+<img height="44" hspace="1" width="44" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
 <img height="44" hspace="5" width="44" src="https://cdn.simpleicons.org/postgresql/4169E1" />
 <br><br>
 
