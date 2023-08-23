@@ -32,13 +32,5 @@
 </a>
 
 <a href="mailto:brenonsc@gmail.com">
-  <img align="left" alt="Breno's e-mail" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Mail_ru.svg" />
+  <img align="left" alt="Breno's e-mail" width="40px" src="https://cdn1.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2/128/at-sign-circle-blue-512.png" />
 </a>
-
-<br />
-<br/>
-<br>
-
-### Recently listening to 
-<a href="https://music.apple.com/profile/breno_nsc" target="_blank">
-<img align="center" src="https://apple-music-readme-wine.vercel.app/?">
