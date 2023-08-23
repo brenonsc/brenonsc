@@ -13,11 +13,10 @@
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,ts,swift,cpp,git,docker,postman)](https://github.com/brenonsc)
 <br><br>
-[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/brenonsc)
-[![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://github.com/brenonsc)
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/brenonsc)
-[![.PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/brenonsc)
-
+<img height="44" hspace="5" width="44" src="https://cdn.simpleicons.org/firebase/FFCA28" />
+<img height="44" width="44" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
+<img height="44" hspace="5" width="44" src="https://cdn.simpleicons.org/postgresql/4169E1" />
+<br><br>
 
 ### You can also find me on 
 <a href="https://www.facebook.com/brenohenrique.nascimento">
