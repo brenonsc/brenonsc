@@ -18,7 +18,7 @@
 <img height="44" hspace="5" width="44" src="https://cdn.simpleicons.org/postgresql/4169E1" />
 <br><br>
 
-### You can also find me on 
+### Reach me
 <a href="https://www.linkedin.com/in/brenonsc">
   <img align="left" alt="Breno's LinkedIn" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
 </a>
