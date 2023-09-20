@@ -1,6 +1,6 @@
 ## Hello World! 👋🏻
 <br/>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+<img align="right" alt="GIF" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-17.gif" />
 
 
  - 🎓 I'm a final student pursuing Bachelor's in Computer Engineering
