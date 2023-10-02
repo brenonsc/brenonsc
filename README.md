@@ -13,9 +13,9 @@
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,ts,react,nodejs,swift,c,git,docker,postman)](https://github.com/brenonsc)
 <br><br>
-<img height="44" hspace="5" width="44" src="https://cdn.simpleicons.org/firebase/FFCA28" />
+<img height="44" hspace="5" width="44" src="https://www.svgrepo.com/show/353735/firebase.svg" />
 <img height="44" hspace="1" width="44" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
-<img height="44" hspace="5" width="44" src="https://cdn.simpleicons.org/postgresql/4169E1" />
+<img height="44" hspace="5" width="44" src="https://static-00.iconduck.com/assets.00/postgresql-icon-497x512-at6qw0yb.png" />
 <br><br>
 
 ### Reach me on
