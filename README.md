@@ -1,13 +1,16 @@
 # Hello World! 👋🏻 
 </br>
-<img align="right" width="440" height="238" alt="GIF" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-17.gif"/>
-
-
- - 🎓 I'm a final student pursuing Bachelor's in Computer Engineering
-- <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/PC.gif" width="20"> I love to explore new technologies and leverage them to solve real-life problems 
-- <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Rocket.gif" width="18"> Ask me about anything and everything, I'll be happy to help!
-- ⚡ **Fun fact:** I've watched The Lord of the Rings approximately 7359 times
-
+<div style="overflow: hidden;">
+    <img align="right" width="440" height="238" alt="GIF" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-17.gif"/>
+    <div>
+        <ul>
+            <li>🎓 I'm a final student pursuing Bachelor's in Computer Engineering</li>
+            <li><img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/PC.gif" width="20"> I love to explore new technologies and leverage them to solve real-life problems</li>
+            <li><img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Rocket.gif" width="18"> Ask me about anything and everything, I'll be happy to help!</li>
+            <li>⚡ **Fun fact:** I've watched The Lord of the Rings approximately 7359 times</li>
+        </ul>
+    </div>
+</div>
 <br>
 
 ### Skills
