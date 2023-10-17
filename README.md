@@ -2,7 +2,7 @@
 </br>
 <div style="overflow: hidden;">
     <img align="right" width="440" height="238" alt="GIF" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-17.gif"/>
-    <div>
+    <div style="margin-right: 20px;">
         <ul>
             <li>🎓 I'm a final student pursuing Bachelor's in Computer Engineering</li>
             <li><img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/PC.gif" width="20"> I love to explore new technologies and leverage them to solve real-life problems</li>
