@@ -1,7 +1,7 @@
 # Hello World! 👋🏻 
 </br>
 <div style="overflow: hidden;">
-    <img align="right" width="440" height="238" alt="GIF" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-17.gif"/>
+    <img align="right" width="440" height="238" alt="GIF" src="https://giffiles.alphacoders.com/610/61072.gif"/>
     <div>
         <ul>
             <li>🎓 I'm a final student pursuing Bachelor's in Computer Engineering</li>
