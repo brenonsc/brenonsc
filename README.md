@@ -11,7 +11,7 @@
         </ul>
     </div>
 </div>
-<br>
+</br>
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,ts,react,swift,c,git,docker,postman)](https://github.com/brenonsc)
