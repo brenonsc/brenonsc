@@ -22,10 +22,14 @@
 <br><br>
 
 ### Reach me on
-<a href="https://www.linkedin.com/in/brenonsc">
+<a href="https://www.linkedin.com/in/brenonsc" target="_blank">
   <img align="left" alt="Breno's LinkedIn" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"/>
 </a>
 
-<a href="mailto:brenonsc@gmail.com">
+<a href="mailto:brenonsc@gmail.com" target="_blank">
   <img align="left" alt="Breno's e-mail" width="40px" src="https://cdn1.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2/128/at-sign-circle-blue-512.png"/>
+</a>
+
+<a href="https://api.whatsapp.com/send/?phone=5511953182692" target="_blank">
+    <img align="left" alt="Breno's WhatsApp" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png"/>
 </a>
