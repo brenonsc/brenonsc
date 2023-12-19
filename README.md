@@ -7,7 +7,7 @@
             <li>🎓 I'm a final student pursuing Bachelor's in Computer Engineering</li>
             <li>💼 Working at <a href="https://agrimp.com">Agri Marketplace</a></li>
             <li><img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/PC.gif" width="18"> I love to explore new technologies and leverage them to solve real-life problems</li>
-            <li><img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Rocket.gif" width="18"> Ask me about anything and everything, I'll be happy to help!</li>
+            <li><img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Rocket.gif" width="17"> Ask me about anything and everything, I'll be happy to help!</li>
             <li>⚡<b>Fun fact</b>: I've watched The Lord of the Rings approximately 7359 times</li>
         </ul>
     </div>
@@ -35,3 +35,7 @@
 <a href="https://api.whatsapp.com/send/?phone=5511953182692" target="_blank">
     <img align="left" alt="Breno's WhatsApp" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png"/>
 </a>
+
+<br>
+<br>
+<h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
