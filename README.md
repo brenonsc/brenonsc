@@ -39,8 +39,12 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenonsc&show_icons=true&theme=transparent"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenonsc&layout=compact&langs_count=6&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenonsc&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenonsc&layout=compact&langs_count=6&theme=tokyonight"/>
 </p>
+<br>
+
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
