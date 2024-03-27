@@ -23,19 +23,19 @@
 <img height="44" hspace="2" width="44" src="https://static-00.iconduck.com/assets.00/postgresql-icon-497x512-at6qw0yb.png"/>
 <br><br>
 
-<h3 align="center">Reach me on</h3>
-<p align="center">
-    <a href="https://www.linkedin.com/in/brenonsc" target="_blank">
-        <img alt="Breno's LinkedIn" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg">
-    </a>&nbsp;
-    <a href="mailto:brenonsc@gmail.com" target="_blank">
-        <img alt="Breno's e-mail" width="40px" src="https://cdn1.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2/128/at-sign-circle-blue-512.png">
-    </a>&nbsp;
-    <a href="https://api.whatsapp.com/send/?phone=5511953182692" target="_blank">
-        <img alt="Breno's WhatsApp" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png">
-    </a>
-</p>
+### Reach me on
+<a href="https://www.linkedin.com/in/brenonsc" target="_blank">
+  <img align="left" alt="Breno's LinkedIn" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"/>
+</a>
+<a href="mailto:brenonsc@gmail.com" target="_blank">
+  <img align="left" alt="Breno's e-mail" width="40px" src="https://cdn1.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2/128/at-sign-circle-blue-512.png"/>
+</a>
+<a href="https://api.whatsapp.com/send/?phone=5511953182692" target="_blank">
+    <img align="left" alt="Breno's WhatsApp" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png"/>
+</a>
 
+<br>
+<br>
 <br>
 <br>
 <br>
