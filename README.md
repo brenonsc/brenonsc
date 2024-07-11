@@ -18,8 +18,8 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ruby,python,js,ts,html,css,react,rails,flask,swift,c,docker,postman)](https://github.com/brenonsc)
 <br><br>
 <img height="44" hspace="2" width="44" src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3521427-2944871.png"/>
-<img height="44" hspace="7" width="44" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927"/>
-<img height="44" hspace="3" width="44" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"/>
+<img height="44" hspace="6" width="44" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"/>
+<img height="44" hspace="2" width="44" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"/>
 <img height="44" hspace="2" width="44" src="https://static-00.iconduck.com/assets.00/postgresql-icon-497x512-at6qw0yb.png"/>
 <br><br>
 
