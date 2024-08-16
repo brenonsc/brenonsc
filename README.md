@@ -4,7 +4,7 @@
     <img align="right" width="440" height="238" alt="GIF" src="https://giffiles.alphacoders.com/610/61072.gif"/>
     <div>
         <ul>
-            <li>🎓 Computer Engineer</li>
+            <li>🎓 Computer Engineer, learning Software Architecture</li>
             <li>💼 Working at <a href="https://www.linkedin.com/company/agri-marketplace">Agri Marketplace</a> & <a href="https://www.linkedin.com/company/redera/">Redera</a></li>
             <li><img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/PC.gif" width="18"> I love to explore new technologies and leverage them to solve real-life problems</li>
             <li><img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Rocket.gif" width="17"> Ask me about anything and everything, I'll be happy to help!</li>
@@ -29,9 +29,6 @@
 </a>
 <a href="mailto:brenonsc@gmail.com" target="_blank">
   <img align="left" alt="Breno's e-mail" width="40px" src="https://cdn1.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2/128/at-sign-circle-blue-512.png"/>
-</a>
-<a href="https://api.whatsapp.com/send/?phone=5511953182692" target="_blank">
-    <img align="left" alt="Breno's WhatsApp" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png"/>
 </a>
 
 <br>
