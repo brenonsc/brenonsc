@@ -16,11 +16,10 @@
 ### &nbsp;&nbsp;&nbsp;&nbsp;Reach me on
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/brenonsc" target="_blank"><img alt="Breno's LinkedIn" width="40px" src="https://github.com/user-attachments/assets/ba138582-a2c2-4201-bb11-4933b58b0a2f"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="mailto:brenonsc@gmail.com" target="_blank"><img alt="Breno's e-mail" width="40px" style="margin-left:10px;" src="https://github.com/user-attachments/assets/e74345f7-23e3-41ec-af02-e1236958f75a"/></a>
+    <a href="https://www.linkedin.com/in/brenonsc" target="_blank"><img alt="Breno's LinkedIn" width="46px" src="https://github.com/user-attachments/assets/b072af60-d4c9-4253-b77d-7557bba9ea08"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="mailto:brenonsc@gmail.com" target="_blank"><img alt="Breno's e-mail" width="46px" style="margin-left:10px;" src="https://github.com/user-attachments/assets/122a3d91-88ea-4582-abbf-d3906779b9f4"/></a>
 </div>
 
-<br>
 <br>
 <br>
 <br>
