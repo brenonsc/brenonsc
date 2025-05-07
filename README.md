@@ -1,4 +1,4 @@
-# Hello World! 👋🏻 
+# > Hello World! 👋🏻
 </br>
 <div style="overflow: hidden;">
     <img align="right" width="440" height="238" alt="GIF" src="https://giffiles.alphacoders.com/610/61072.gif"/>
@@ -6,13 +6,12 @@
         <ul>
             <li>🎓 Computer Engineer, learning Software Architecture</li>
             <li>💼  Working at <a href="https://www.linkedin.com/company/redera/">Redera</a></li>
-            <li><img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/PC.gif" width="18"> Turning curiosity into code</li>
-            <li><img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Rocket.gif" width="17"> Got a “why”? Let’s explore it.</li>
+            <li><img src="https://github.com/user-attachments/assets/763f6701-0cb7-4915-b90f-75ba0e20257a" width="18"> Turning curiosity into code</li>
+            <li><img src="https://github.com/user-attachments/assets/3f50535c-827d-43c3-9b73-0a937561acf8" width="17"> Got a “why”? Let’s explore it.</li>
             <li>⚡<b> Fun fact</b>: Can quote Gandalf better than Google</li>
         </ul>
     </div>
 </div>
-</br>
 
 ### Reach me on
 <a href="https://www.linkedin.com/in/brenonsc" target="_blank">
