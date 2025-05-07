@@ -13,13 +13,12 @@
     </div>
 </div>
 
-### Reach me on
-<a href="https://www.linkedin.com/in/brenonsc" target="_blank">
-  <img align="left" alt="Breno's LinkedIn" width="40px" src="https://github.com/user-attachments/assets/ba138582-a2c2-4201-bb11-4933b58b0a2f"/>
-</a>
-<a href="mailto:brenonsc@gmail.com" target="_blank">
-  <img align="left" alt="Breno's e-mail" width="40px" src="https://github.com/user-attachments/assets/e74345f7-23e3-41ec-af02-e1236958f75a"/>
-</a>
+### &nbsp;&nbsp;&nbsp;&nbsp;Reach me on
+<div>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/brenonsc" target="_blank"><img alt="Breno's LinkedIn" width="40px" src="https://github.com/user-attachments/assets/ba138582-a2c2-4201-bb11-4933b58b0a2f"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="mailto:brenonsc@gmail.com" target="_blank"><img alt="Breno's e-mail" width="40px" style="margin-left:10px;" src="https://github.com/user-attachments/assets/e74345f7-23e3-41ec-af02-e1236958f75a"/></a>
+</div>
 
 <br>
 <br>
