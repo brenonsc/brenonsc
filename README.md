@@ -16,17 +16,17 @@
 ### &nbsp;&nbsp;&nbsp;&nbsp;Reach me on
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/brenonsc" target="_blank"><img alt="Breno's LinkedIn" width="46px" src="https://github.com/user-attachments/assets/b072af60-d4c9-4253-b77d-7557bba9ea08"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="mailto:brenonsc@gmail.com" target="_blank"><img alt="Breno's e-mail" width="46px" style="margin-left:10px;" src="https://github.com/user-attachments/assets/122a3d91-88ea-4582-abbf-d3906779b9f4"/></a>
+    <a href="mailto:brenonsc@gmail.com" target="_blank"><img alt="Breno's e-mail" width="46px" style="margin-left:10px;" src="https://github.com/user-attachments/assets/122a3d91-88ea-4582-abbf-d3906779b9f4"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/brenonsc" target="_blank"><img alt="Breno's LinkedIn" width="46px" src="https://github.com/user-attachments/assets/b072af60-d4c9-4253-b77d-7557bba9ea08"/></a>  
 </div>
 
 <br>
 <br>
 <br>
 <br>
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenonsc&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenonsc&layout=compact&langs_count=6&theme=tokyonight"/>
-</p>
+<div align="center">  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenonsc&hide_title=true&show_icons=true&count_private=true&hide_border=true&title_color=4493f8&icon_color=95b8d5&text_color=9198a1&bg_color=0d1117"/>&nbsp;
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenonsc&hide=jupyter%20notebook&layout=compact&langs_count=6&count_private=true&hide_border=true&title_color=4493f8&icon_color=4682B4&text_color=9198a1&bg_color=0d1117"/>
+</div>
 
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
