@@ -23,10 +23,9 @@
 <br>
 <br>
 <br>
-<br>
 <div align="center">  
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=brenonsc&custom_title=GitHub%20Stats&show_icons=true&count_private=true&hide=issues&hide_border=true&title_color=4493f8&icon_color=95b8d5&text_color=9198a1&bg_color=0d1117"/>&nbsp;
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenonsc&hide=jupyter%20notebook&layout=compact&langs_count=6&count_private=true&hide_border=true&title_color=4493f8&icon_color=4682B4&text_color=9198a1&bg_color=0d1117"/>
+    <img height="166em" src="https://github-readme-stats.vercel.app/api?username=brenonsc&custom_title=GitHub%20Stats&show_icons=true&count_private=true&hide=issues&hide_border=true&title_color=4493f8&icon_color=95b8d5&text_color=9198a1&bg_color=0d1117"/>&nbsp;
+    <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenonsc&hide=jupyter%20notebook&layout=compact&langs_count=6&count_private=true&hide_border=true&title_color=4493f8&icon_color=4682B4&text_color=9198a1&bg_color=0d1117"/>
 </div>
 
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
