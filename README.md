@@ -16,8 +16,8 @@
 ### &nbsp;&nbsp;&nbsp;&nbsp;Reach me on
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:brenonsc@gmail.com" target="_blank"><img alt="Breno's e-mail" width="48px" style="margin-left:10px;" src="https://github.com/user-attachments/assets/122a3d91-88ea-4582-abbf-d3906779b9f4"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/brenonsc" target="_blank"><img alt="Breno's LinkedIn" width="48px" src="https://github.com/user-attachments/assets/b072af60-d4c9-4253-b77d-7557bba9ea08"/></a>  
+    <a href="mailto:brenonsc@gmail.com" target="_blank"><img alt="Breno's e-mail" width="47px" style="margin-left:10px;" src="https://github.com/user-attachments/assets/122a3d91-88ea-4582-abbf-d3906779b9f4"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/brenonsc" target="_blank"><img alt="Breno's LinkedIn" width="47px" src="https://github.com/user-attachments/assets/b072af60-d4c9-4253-b77d-7557bba9ea08"/></a>  
 </div>
 
 <br>
