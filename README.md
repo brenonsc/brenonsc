@@ -4,11 +4,11 @@
     <img align="right" width="440" height="238" alt="GIF" src="https://giffiles.alphacoders.com/610/61072.gif"/>
     <div>
         <ul>
-            <li>🎓 Computer Engineer, learning Software Architecture</li>
-            <li>💼 Working at <a href="https://www.linkedin.com/company/redera/">Redera</a></li>
-            <li><img src="https://github.com/user-attachments/assets/763f6701-0cb7-4915-b90f-75ba0e20257a" width="18"> Turning curiosity into code</li>
-            <li><img src="https://github.com/user-attachments/assets/3f50535c-827d-43c3-9b73-0a937561acf8" width="17"> Got a “why”? Let’s explore it.</li>
-            <li><img src="https://github.com/user-attachments/assets/1c61ef6c-16be-44f6-8095-9b95927148f4" width="17"><b> Fun fact</b>: Can quote Gandalf better than Google</li>
+            <li><img src="https://github.com/user-attachments/assets/5677cf73-3e95-4c78-919a-af4031345869" width="23"> Computer Engineer, learning Software Architecture</li>
+            <li><img src="https://github.com/user-attachments/assets/2d314333-3ca6-43c8-ae9d-c6b3ba286b25" width="23"> Working at <a href="https://www.linkedin.com/company/redera/">Redera</a></li>
+            <li><img src="https://github.com/user-attachments/assets/2a9634ff-23a2-460d-96c9-2a4c301aa74c" width="23"> Turning curiosity into code</li>
+            <li><img src="https://github.com/user-attachments/assets/318f6c92-fea4-4f5c-a6aa-eb9cd91ce878" width="22"> Got a “why”? Let’s explore it.</li>
+            <li><img src="https://github.com/user-attachments/assets/1f69046f-093e-4d36-87ac-2f162fc23360" width="23"><b> Fun fact</b>: Can quote Gandalf better than Google</li>
         </ul>
     </div>
 </div>
