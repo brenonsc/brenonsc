@@ -5,10 +5,10 @@
     <div>
         <ul>
             <li>🎓 Computer Engineer, learning Software Architecture</li>
-            <li>💼  Working at <a href="https://www.linkedin.com/company/redera/">Redera</a></li>
+            <li>💼 Working at <a href="https://www.linkedin.com/company/redera/">Redera</a></li>
             <li><img src="https://github.com/user-attachments/assets/763f6701-0cb7-4915-b90f-75ba0e20257a" width="18"> Turning curiosity into code</li>
             <li><img src="https://github.com/user-attachments/assets/3f50535c-827d-43c3-9b73-0a937561acf8" width="17"> Got a “why”? Let’s explore it.</li>
-            <li>⚡<b> Fun fact</b>: Can quote Gandalf better than Google</li>
+            <li><img src="https://github.com/user-attachments/assets/1c61ef6c-16be-44f6-8095-9b95927148f4" width="17"><b> Fun fact</b>: Can quote Gandalf better than Google</li>
         </ul>
     </div>
 </div>
