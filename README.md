@@ -4,7 +4,7 @@
     <img align="right" width="440" height="238" alt="GIF" src="https://giffiles.alphacoders.com/610/61072.gif"/>
     <div>
         <ul>
-            <li><img src="https://github.com/user-attachments/assets/5677cf73-3e95-4c78-919a-af4031345869" width="23"> Computer Engineer, learning Software Architecture</li>
+            <li><img src="https://github.com/user-attachments/assets/5677cf73-3e95-4c78-919a-af4031345869" width="23"> Computer Engineer</li>
             <li><img src="https://github.com/user-attachments/assets/2d314333-3ca6-43c8-ae9d-c6b3ba286b25" width="23"> Working at <a href="https://www.linkedin.com/company/redera/">Redera</a></li>
             <li><img src="https://github.com/user-attachments/assets/2a9634ff-23a2-460d-96c9-2a4c301aa74c" width="23"> Turning curiosity into code</li>
             <li><img src="https://github.com/user-attachments/assets/318f6c92-fea4-4f5c-a6aa-eb9cd91ce878" width="22"> Got a “why”? Let’s explore it.</li>
