@@ -18,12 +18,6 @@
     <a href="mailto:brenonsc@gmail.com" target="_blank"><img alt="Breno's e-mail" width="46px" style="margin-left:10px;" src="https://github.com/user-attachments/assets/122a3d91-88ea-4582-abbf-d3906779b9f4"/></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/brenonsc" target="_blank"><img alt="Breno's LinkedIn" width="46px" src="https://github.com/user-attachments/assets/b072af60-d4c9-4253-b77d-7557bba9ea08"/></a>  
 </div>
-
 <br>
 <br>
-<div align="center">  
-    <img height="166em" src="https://github-readme-stats.lutfilahdzaky.vercel.app/api?username=brenonsc&custom_title=GitHub%20Stats&rank_icon=github&show_icons=true&count_private=true&hide=issues&hide_border=true&title_color=4493f8&icon_color=70A0C7&text_color=75818F&bg_color=00000000"/>&nbsp;
-    <img height="166em" src="https://github-readme-stats.lutfilahdzaky.vercel.app/api/top-langs/?username=brenonsc&hide=jupyter%20notebook&layout=compact&langs_count=6&count_private=true&hide_border=true&title_color=4493f8&text_color=75818F&bg_color=00000000"/>
-</div>
-
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
