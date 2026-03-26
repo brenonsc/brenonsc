@@ -2,7 +2,6 @@
 </br>
 <div style="overflow: hidden;">
     <img align="right" width="360" height="270" alt="GIF" src="https://github.com/user-attachments/assets/c9191fef-04b6-4ad3-9f00-591fee33b571"/>
-    <br>
     <div>
         <ul>
             <li><img src="https://github.com/user-attachments/assets/5677cf73-3e95-4c78-919a-af4031345869" width="23"> Computer Engineer</li>
